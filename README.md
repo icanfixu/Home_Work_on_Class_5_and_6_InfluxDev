@@ -1,4 +1,4 @@
-# Home_Work_on_Class_5_and_6_InfluxDev
+# Home Work on Class 5 and 6
 
 
 ![image](https://github.com/icanfixu/Home_Work_on_Class_5_and_6_InfluxDev/assets/117638637/fbdaf78a-6b94-4d10-a2fd-77e2d60bdfe3)
